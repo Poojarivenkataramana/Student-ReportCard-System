@@ -41,4 +41,22 @@ It allows users to add student details, view reports, and identify highest and l
 |------------|------|
 | > 90       | A+   |
 | 80 - 90    | A    |
-| 71 -
+| 71 - 79    | B+   |
+| 66 - 70    | B    |
+| 51 - 65    | C    |
+| 35 - 50    | D    |
+| < 35       | F    |
+
+---
+
+## 💡 Learning Outcomes
+- Practical use of Python fundamentals  
+- Understanding of real-world problem solving  
+- Implementation of logic using conditions and loops  
+- Hands-on project development experience  
+
+---
+
+## ▶️ How to Run
+```bash
+python Student_report_card_system.py
